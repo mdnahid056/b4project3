@@ -1,0 +1,386 @@
+@media (max-width:319px) { 
+    .hn::after{
+        content: '';
+        display: block;
+        width: 100px;
+        height: 3px;
+        background: rgb(252, 164, 0);
+        margin-top: 20px;
+        margin-left: 90px;
+        border-radius: 40px;
+        
+} 
+
+}
+@media (min-width:320px) {
+    :root {
+        --fon:'Alata', sans-serif;
+        --fon-3:'Krona One', sans-serif;
+        --fon-4:'Megrim', cursive;
+        --fon-5:'Philosopher', sans-serif;
+        --fon-6:'Playball', cursive;
+    
+        --fon-7:'Rozha One', serif;
+    
+        --fon-8:'Volkhov', serif;
+    
+        --fon-9:'Audiowide', cursive;
+    
+        --fon-10:'Julius Sans One', sans-serif;
+    
+        --fon-12:'Krona One', sans-serif;
+    
+        --fon-13:'Lobster', cursive;
+    
+        --fon-14:'Lobster Two', cursive;
+    
+        --fon-15:'Philosopher', sans-serif;
+    
+        --fon-16:'Rajdhani', sans-serif;
+    
+        --fon-17:'Raleway', sans-serif;
+    /*-----------------------------------------------------------------*/
+        --cl-1:#00F2FF;
+        --cl-2:#00C4FF;
+        --cl-3:#FF00C0;
+        --cl-4:#FF007E;
+        --cl-5:#FF005A;
+        --cl-6:#FF0018;
+        --cl-7:#00FF72;
+        --cl-8:#47FF00;
+        --cl-9:#C0FF00;
+        --cl-10:#FF5A00;
+    } 
+
+
+
+    .unm{
+        margin-left: 130px;
+        margin-top: -10px;
+        font-size: 20px;
+        font-family: var(--fon);
+    } 
+    .mj{
+        opacity: 100;
+    }
+    .hn::after{
+            content: '';
+            display: block;
+            width: 100px;
+            height: 3px;
+            background: rgb(252, 164, 0);
+            margin-top: 20px;
+            margin-left: 90px;
+            border-radius: 40px;
+            
+    }
+    
+.footer h3{
+    text-align: center;
+}
+.bx-f{
+    margin-left: auto!important;
+    margin-right: auto!important;
+}
+ }
+
+@media (min-width: 360px) { 
+    :root {
+        --fon:'Alata', sans-serif;
+        --fon-3:'Krona One', sans-serif;
+        --fon-4:'Megrim', cursive;
+        --fon-5:'Philosopher', sans-serif;
+        --fon-6:'Playball', cursive;
+    
+        --fon-7:'Rozha One', serif;
+    
+        --fon-8:'Volkhov', serif;
+    
+        --fon-9:'Audiowide', cursive;
+    
+        --fon-10:'Julius Sans One', sans-serif;
+    
+        --fon-12:'Krona One', sans-serif;
+    
+        --fon-13:'Lobster', cursive;
+    
+        --fon-14:'Lobster Two', cursive;
+    
+        --fon-15:'Philosopher', sans-serif;
+    
+        --fon-16:'Rajdhani', sans-serif;
+    
+        --fon-17:'Raleway', sans-serif;
+    /*-----------------------------------------------------------------*/
+        --cl-1:#00F2FF;
+        --cl-2:#00C4FF;
+        --cl-3:#FF00C0;
+        --cl-4:#FF007E;
+        --cl-5:#FF005A;
+        --cl-6:#FF0018;
+        --cl-7:#00FF72;
+        --cl-8:#47FF00;
+        --cl-9:#C0FF00;
+        --cl-10:#FF5A00;
+    } 
+
+    .unm{
+        margin-left: 110px;
+        margin-top: -10px;
+        font-size: 20px;
+        font-family: var(--fon);
+    } 
+    .mj{
+        opacity: 100;
+    }
+    .hn::after{
+        content: '';
+        display: block;
+        width: 100px;
+        height: 3px;
+        background: rgb(252, 164, 0);
+        margin-top: 20px;
+        margin-left: 100px;
+        border-radius: 40px;
+        
+}
+
+.footer h3{
+    text-align: center;
+}
+
+.bx-f{
+    margin-left: auto!important;
+    margin-right: auto!important;
+}
+ }
+
+@media (min-width: 480px) { 
+    :root {
+        --fon:'Alata', sans-serif;
+        --fon-3:'Krona One', sans-serif;
+        --fon-4:'Megrim', cursive;
+        --fon-5:'Philosopher', sans-serif;
+        --fon-6:'Playball', cursive;
+    
+        --fon-7:'Rozha One', serif;
+    
+        --fon-8:'Volkhov', serif;
+    
+        --fon-9:'Audiowide', cursive;
+    
+        --fon-10:'Julius Sans One', sans-serif;
+    
+        --fon-12:'Krona One', sans-serif;
+    
+        --fon-13:'Lobster', cursive;
+    
+        --fon-14:'Lobster Two', cursive;
+    
+        --fon-15:'Philosopher', sans-serif;
+    
+        --fon-16:'Rajdhani', sans-serif;
+    
+        --fon-17:'Raleway', sans-serif;
+    /*-----------------------------------------------------------------*/
+        --cl-1:#00F2FF;
+        --cl-2:#00C4FF;
+        --cl-3:#FF00C0;
+        --cl-4:#FF007E;
+        --cl-5:#FF005A;
+        --cl-6:#FF0018;
+        --cl-7:#00FF72;
+        --cl-8:#47FF00;
+        --cl-9:#C0FF00;
+        --cl-10:#FF5A00;
+    } 
+
+    .unm{
+        margin-right: 20px;
+        margin-left:10px;
+        margin-top: -10px;
+        font-size:25px;
+        font-family: var(--fon);
+    } 
+    .mj{
+        opacity: 100;
+    }
+    .hn::after{
+        content: '';
+        display: block;
+        width: 100px;
+        height: 3px;
+        background: rgb(252, 164, 0);
+        margin-top: 20px;
+        margin-left:170px;
+        border-radius: 40px;
+        
+}
+
+.footer h3{
+    text-align: center;
+}
+
+.bx-f{
+    margin-left: auto!important;
+    margin-right: auto!important;
+}
+
+ }
+ 
+@media (min-width: 576px) { 
+    :root {
+        --fon:'Alata', sans-serif;
+        --fon-3:'Krona One', sans-serif;
+        --fon-4:'Megrim', cursive;
+        --fon-5:'Philosopher', sans-serif;
+        --fon-6:'Playball', cursive;
+    
+        --fon-7:'Rozha One', serif;
+    
+        --fon-8:'Volkhov', serif;
+    
+        --fon-9:'Audiowide', cursive;
+    
+        --fon-10:'Julius Sans One', sans-serif;
+    
+        --fon-12:'Krona One', sans-serif;
+    
+        --fon-13:'Lobster', cursive;
+    
+        --fon-14:'Lobster Two', cursive;
+    
+        --fon-15:'Philosopher', sans-serif;
+    
+        --fon-16:'Rajdhani', sans-serif;
+    
+        --fon-17:'Raleway', sans-serif;
+    /*-----------------------------------------------------------------*/
+        --cl-1:#00F2FF;
+        --cl-2:#00C4FF;
+        --cl-3:#FF00C0;
+        --cl-4:#FF007E;
+        --cl-5:#FF005A;
+        --cl-6:#FF0018;
+        --cl-7:#00FF72;
+        --cl-8:#47FF00;
+        --cl-9:#C0FF00;
+        --cl-10:#FF5A00;
+    } 
+
+    .unm{
+        
+        margin-top: -10px;
+        font-size:30px;
+        color: rgb(0, 153, 255);
+        font-family: var(--fon);
+    } 
+    .mj{
+        opacity: 100;
+    }
+    .hn::after{
+        content: '';
+        display: block;
+        width: 100px;
+        height: 3px;
+        background: rgb(252, 164, 0);
+        margin-top: 20px;
+        margin-left:210px;
+        border-radius: 40px;
+        
+}
+.footer h3{
+    text-align: center;
+}
+
+.bx-f{
+    margin-left: auto!important;
+    margin-right: auto!important;
+}
+ }
+
+@media (min-width: 768px) { 
+    .mj{
+        opacity: 0;
+    }
+    .hn::after{
+        content: '';
+        display: block;
+        width: 100px;
+        height: 3px;
+        background: rgb(252, 164, 0);
+        margin-top: 20px;
+        margin-left:300px;
+        border-radius: 40px;
+        
+}
+
+.bx-f{
+    margin-left: auto!important;
+    margin-right: auto!important;
+}
+
+.footer h3{
+    text-align:center;
+} 
+.v3{
+     width: 170px!important;
+}
+.v3 li{
+    line-height:5px;
+}
+ }
+ 
+@media (min-width: 992px) {
+
+    
+.footer h3{
+    text-align: left;
+}
+    .mj{
+        opacity: 0;
+    }
+    
+.navbar-nav{
+    margin-left:200px;
+}
+.hn::after{
+    content: '';
+    display: block;
+    width: 100px;
+    height: 3px;
+    background: rgb(252, 164, 0);
+    margin-top: 20px;
+    margin-left:420px;
+    border-radius: 40px;
+    
+}
+
+ }
+
+@media (min-width: 1200px) { 
+    
+.footer h3{
+    text-align: left;
+}
+    
+.hn::after{
+    content: '';
+    display: block;
+    width: 100px;
+    height: 3px;
+    background: rgb(252, 164, 0);
+    margin-top: 20px;
+    margin-left:500px;
+    border-radius: 40px;
+    
+}
+    
+.navbar-nav{
+    margin-left:500px;
+}
+    .mj{
+        opacity: 0;
+    }
+
+ }
